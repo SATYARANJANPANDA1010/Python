@@ -1,0 +1,10 @@
+str1 = 'abcdefghijk'
+en = enumerate(str1)
+print(next(en))
+print(next(en))
+print(next(en))
+print(next(en))
+print(next(en))
+print(next(en))
+print(next(en))
+print(next(en))

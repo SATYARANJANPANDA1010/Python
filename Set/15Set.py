@@ -1,0 +1,12 @@
+# remove()
+
+set1 = set(range(10,110,10))
+print(set1)
+set1.remove(10)
+print(set1)
+set1.remove(30)
+print(set1)
+set1.remove(60)
+print(set1)
+set1.remove(90)
+print(set1)
